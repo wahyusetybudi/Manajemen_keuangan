@@ -1,3 +1,7 @@
+# MockUp Design
+Canva : https://www.canva.com/design/DAGkrN8KwYU/Skdlsw-AYZZhFYe2jLJl-A/edit?utm_content=DAGkrN8KwYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 # Manajemen_keuangan
 Fitur-fitur umum yang biasanya ada di aplikasi manajemen keuangan antara lain:
 
