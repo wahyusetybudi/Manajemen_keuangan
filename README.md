@@ -1,5 +1,6 @@
 # MockUp Design
-Canva : https://www.canva.com/design/DAGkrN8KwYU/Skdlsw-AYZZhFYe2jLJl-A/edit?utm_content=DAGkrN8KwYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Screenshot 2025-04-25 230052](https://github.com/user-attachments/assets/4671be3b-6ca0-4306-987a-7c8b2460a3ec)
+
 
 
 # Manajemen_keuangan
