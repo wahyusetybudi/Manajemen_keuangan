@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.Form1.resources
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.Formlogin.resources
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\bin\Debug\manajemen_keuangan.exe.config
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\bin\Debug\manajemen_keuangan.exe
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\bin\Debug\manajemen_keuangan.pdb
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.exe
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.pdb
+C:\Users\user\OneDrive\Documents\semester 6\manajemen_keuangan\obj\Debug\manajemen_keuangan.Form2.resources
